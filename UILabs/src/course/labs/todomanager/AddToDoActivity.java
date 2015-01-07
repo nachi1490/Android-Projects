@@ -28,7 +28,7 @@ public class AddToDoActivity extends Activity {
 	// 7 days in milliseconds - 7 * 24 * 60 * 60 * 1000
 	private static final int SEVEN_DAYS = 604800000;
 
-	private static final String TAG = "Lab-UserInterface";
+	private static final String TAG = "Lab-UserInterfac";
 
 	private static String timeString;
 	private static String dateString;
